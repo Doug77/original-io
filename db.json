@@ -1,0 +1,136 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "type": "bag",
+      "RT": "0568 | 03.07.0653",
+      "title": "Bolsa Bonita",
+      "originPrice": 69.00,
+      "price": 55.20,
+      "colors": [
+        "cyan",
+        "red",
+        "black"
+      ],
+      "lenght": [
+        "P",
+        "M",
+        "G"
+      ],
+      "imagem": [
+        {
+          "url": "https://images.unsplash.com/photo-1600857062241-98e5dba7f214?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=550&ixid=MnwxfDB8MXxyYW5kb218MHx8YmFnfHx8fHx8MTYzNzE4ODY0NQ&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=430"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1621609764049-5ee1db3d7c35?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=550&ixid=MnwxfDB8MXxyYW5kb218MHx8YmFnfHx8fHx8MTYzNzE4OTEyOA&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=430"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1473188588951-666fce8e7c68?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=550&ixid=MnwxfDB8MXxyYW5kb218MHx8YmFnfHx8fHx8MTYzNzE4OTE1OA&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=430"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1587467495807-da8e70e35344?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=550&ixid=MnwxfDB8MXxyYW5kb218MHx8YmFnfHx8fHx8MTYzNzE4OTE4Nw&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=430"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "bag",
+      "RT": "0569 | 03.07.0654",
+      "title": "Bolsa Muito Bonita",
+      "originPrice": 55.00,
+      "price": 45.20,
+      "colors": [
+        "red",
+        "yellow",
+        "blue"
+      ],
+      "lenght": [
+        "P",
+        "G"
+      ],
+      "imagem": [
+        {
+          "url": "https://images.unsplash.com/photo-1509762774605-f07235a08f1f?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=550&ixid=MnwxfDB8MXxyYW5kb218MHx8YmFnfHx8fHx8MTYzNzE4OTY5NA&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=430"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1591561954555-607968c989ab?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=550&ixid=MnwxfDB8MXxyYW5kb218MHx8YmFnfHx8fHx8MTYzNzE4OTcxNA&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=430"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1621624959365-071359461b94?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=550&ixid=MnwxfDB8MXxyYW5kb218MHx8YmFnfHx8fHx8MTYzNzE4OTcyOA&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=430"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "shoes",
+      "RT": "0570 | 03.07.0655",
+      "title": "Sapato Legal",
+      "originPrice": 234.50,
+      "price": 203.00,
+      "colors": [
+        "black",
+        "white",
+        "gray"
+      ],
+      "lenght": [
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "imagem": [
+        {
+          "url": "https://images.unsplash.com/photo-1604136172276-0f0a615e7fae?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=550&ixid=MnwxfDB8MXxyYW5kb218MHx8c2hvZXN8fHx8fHwxNjM3MTg5Nzc4&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=430"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1543508282-5c1f427f023f?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=550&ixid=MnwxfDB8MXxyYW5kb218MHx8c2hvZXN8fHx8fHwxNjM3MTg5OTM4&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=430"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=550&ixid=MnwxfDB8MXxyYW5kb218MHx8c2hvZXN8fHx8fHwxNjM3MTg5OTcx&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=430"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "shoes",
+      "RT": "0570 | 03.07.0655",
+      "title": "Sapato Legal",
+      "originPrice": 234.50,
+      "price": 203.00,
+      "colors": [
+        "black",
+        "white",
+        "gray"
+      ],
+      "lenght": [
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "imagem": [
+        {
+          "url": "https://images.unsplash.com/photo-1604136172276-0f0a615e7fae?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=550&ixid=MnwxfDB8MXxyYW5kb218MHx8c2hvZXN8fHx8fHwxNjM3MTg5Nzc4&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=430"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1543508282-5c1f427f023f?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=550&ixid=MnwxfDB8MXxyYW5kb218MHx8c2hvZXN8fHx8fHwxNjM3MTg5OTM4&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=430"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=550&ixid=MnwxfDB8MXxyYW5kb218MHx8c2hvZXN8fHx8fHwxNjM3MTg5OTcx&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=430"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+element-colors {
+  --primary: #DE8F75;
+  --scondary: #5F75AA;
+  --complement1: #AEB6C1;
+  --complement3: #A9095E;
+  --complement4: #2A5A75;
+  --black: #000000;
+  --white: #FFFFFF;
+  --sucess: #32917B;
+  --gray-dark: #EBEBEB;
+  --gray-light: #E3E3E3;
+  --gray-lighter: #CCCCCC;
+  --Ellipse1: #ADADAD;
+  --Ellipse2: #7F7F7F;
+  --Ellipse3: #686868;
+}
+
+.footer-page {
+  padding: 10px 0px 10px 0px;
+  background-color: #DE8F75;
+  color: #FFFFFF;
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.text-footer {
+  font-size: 12px;
+}

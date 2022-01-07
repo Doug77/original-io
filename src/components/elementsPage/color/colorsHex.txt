@@ -1,0 +1,15 @@
+$c-primary:  DE8F75
+$c-scondary:  5F75AA
+$c-complement1:  AEB6C1
+$c-complement3:  A9095E
+$c-complement4:  2A5A75
+$c-black:  000000
+$c-white:  FFFFFF
+$c-sucess:  32917B
+$c-gray-dark:  EBEBEB
+$c-gray-light:  E3E3E3
+$c-gray-lighter:  CCCCCC
+Ellipse: ADADAD
+Ellipse: 7F7F7F
+Ellipse: 686868
+
