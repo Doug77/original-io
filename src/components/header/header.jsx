@@ -1,11 +1,11 @@
 import React, { Component } from "react";
 import "./header.css";
-import { Link } from "react-router-dom";
+import { Link, Route } from "react-router-dom";
 
 export default class Header extends Component {
   render() {
     return (
-      <>
+      <Route>
         <div className="header-page">
           <Link to="/home">
             {/* <img src={ logoSvg } alt="logo-Original-io" /> */ }
@@ -30,7 +30,7 @@ export default class Header extends Component {
             </Link>
           </div>
         </div>
-      </>
+      </ Route>
     );
   }
 }
