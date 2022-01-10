@@ -1,6 +1,10 @@
 import React, { Component } from "react";
 import "./header.css";
-import { Link } from "react-router-dom";
+import { Link, } from "react-router-dom";
+
+import logoSvg from "../elementsPage/icons/header/VectorlogoOriginal.svg";
+import searchIcon from "../elementsPage/icons/header/ic_search_black_24pxsearch.svg";
+import cartIcon from "../elementsPage/icons/header/ic_shopping_cart_black_24pxbag.svg";
 
 export default class Header extends Component {
   render() {
@@ -8,7 +12,7 @@ export default class Header extends Component {
       <>
         <div className="header-page">
           <Link to="/home">
-            {/* <img src={ logoSvg } alt="logo-Original-io" /> */ }
+            { <img src={ logoSvg } alt="logo-Original-io" /> }
           </Link>
         </div>
         <div className="nav-links">
@@ -22,10 +26,10 @@ export default class Header extends Component {
             <Link to="/acessorios" className="link routers">ACESSÓRIOS</Link>
           </div>
           <div>
-            {/* <img src={ searchIcon } alt="icon-search" width="21px" /> */ }
+            { <img src={ searchIcon } alt="icon-search" width="21px" /> }
             <input className="search-input" type="text" placeholder="Busca" />
             <Link to="carrinho" className="link">
-              {/* <img src={ cartIcon } alt="icon-bag" width="21px" /> */ }
+              { <img src={ cartIcon } alt="icon-bag" width="21px" /> }
               0
             </Link>
           </div>
