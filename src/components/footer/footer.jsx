@@ -1,5 +1,5 @@
-import React, { Component } from 'react';
-import './footer.css';
+import React, { Component } from "react";
+import "./footer.css";
 // import logoSvg from './elementsPage/icons/footer/Vectorlogowhite.svg';
 // import facebookIcon from './elementsPage/icons/footer/facebook.svg';
 // import instaIcon from './elementsPage/icons/footer/instagram.svg';
@@ -27,6 +27,6 @@ export default class Footer extends Component {
           {/* <img className="logo-footer" src={ logoSvg } alt="logo-original" /> */ }
         </div >
       </>
-    )
+    );
   }
 }

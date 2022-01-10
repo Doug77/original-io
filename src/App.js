@@ -1,11 +1,12 @@
-import { Switch, Route } from 'react-router-dom';
-import './App.css';
-import PageNotFount from './components/pageNotFound/pageNotFount';
-import BagPage from './components/bagPage/bagPage';
-import ShoesPage from './components/shoesPage/shoesPage';
-import HomePage from './components/homePage/homePage';
-import Footer from './components/footer/footer';
-import Header from './components/header/header';
+import React from "react";
+import { Switch, Route } from "react-router-dom";
+import "./App.css";
+import PageNotFount from "./components/pageNotFound/pageNotFount";
+import BagPage from "./components/bagPage/bagPage";
+import ShoesPage from "./components/shoesPage/shoesPage";
+import HomePage from "./components/homePage/homePage";
+import Footer from "./components/footer/footer";
+import Header from "./components/header/header";
 
 function App() {
   return (

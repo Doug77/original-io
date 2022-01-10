@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React, { Component } from "react";
 
 export default class ShoesPage extends Component {
   render() {
@@ -6,6 +6,6 @@ export default class ShoesPage extends Component {
       <div>
         <h1>Você está na pagina de sapatos</h1>
       </div>
-    )
+    );
   }
 }
