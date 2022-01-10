@@ -15,6 +15,18 @@ element-colors {
   --Ellipse3: #686868;
 }
 
+.info-content {
+  display: flex;
+  justify-content: space-evenly;
+  border: 1px solid lightgray;
+}
+
+.icon-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
 .footer-page {
   padding: 10px 0px 10px 0px;
   background-color: #DE8F75;
@@ -22,8 +34,16 @@ element-colors {
   width: 100%;
   display: flex;
   justify-content: space-evenly;
+  font-size: 12px;
 }
 
-.text-footer {
-  font-size: 12px;
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: black
 }
