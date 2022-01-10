@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React, { Component } from "react";
 
 export default class AccessoriesPage extends Component {
   render() {
@@ -6,6 +6,6 @@ export default class AccessoriesPage extends Component {
       <div>
         <h1>Vocês está na pagina de Acessórios</h1>
       </div>
-    )
+    );
   }
 }
