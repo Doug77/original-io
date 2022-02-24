@@ -29,7 +29,6 @@ Se você está fazendo este teste para uma vaga de **Júnior** ou **Estagio**, l
 Caso seu teste seja para uma vaga de desenvolvedor **Pleno** **Senior** ou **Tech Lead**, os critérios que pretendemos avaliar em seu código são, além dos itens obrigatórios e os **[bonus](#bonus-points)**, a capacidade de [pensar modularmente](https://webstandardssherpa.com/reviews/think-modularly); também acreditamos que uma boa organização utilizando o Git e estruturar arquivos e pastas de forma eficiente e organizada são reflexos da sua eficiência ao trabalhar em equipe - algo **essencial** por aqui -, portanto também será levado em consideração.
 
 ## Entregando o teste
-
 Enviar arquivo **.zip** paras os e-mails abaixo. Não faça pull request para este repositório ou abra uma issue.
 
 Emails:
